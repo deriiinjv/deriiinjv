@@ -1,5 +1,5 @@
 
-<h2 align="left">Derin | AI/ML Engineer (Junior)</h2>
+<h2 align="left">Derin 
 
 
 <img align="right" height="160"
